@@ -7,6 +7,6 @@ action_set_life(-1);
 action_set_relative(0);
 }
 with (obj_myplane) {
-action_move_to(room_width/2, room_height-75);
+action_move_to(room_width/2, room_height-100);
 }
 action_set_relative(0);
