@@ -609,6 +609,25 @@
             }
         },
         {
+            "Key": "50f728a5-77c2-45dd-b872-96138198f95d",
+            "Value": {
+                "id": "0f906633-3f99-4df7-be52-25fb1f7e8920",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/controller_bomb\/controller_bomb.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "516219de-5763-4e02-8615-c70ee633a854",
             "Value": {
                 "id": "35fca2ba-697a-4d7f-bbf4-65bec0f916ea",
@@ -1046,6 +1065,25 @@
             }
         },
         {
+            "Key": "ab4008b7-6ab7-4be3-ae95-2e7081045c4e",
+            "Value": {
+                "id": "e1e68b71-3141-4e48-969c-b4599395a480",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_bomb\/spr_bomb.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ac61a2e1-1219-4f98-ad3d-9f01f054cd64",
             "Value": {
                 "id": "7bada1cc-d573-4434-8df1-b89b6c2b549a",
@@ -1328,6 +1366,25 @@
                 ],
                 "resourcePath": "sprites\/spr_explosion1\/spr_explosion1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dd88694a-9a35-4027-996f-895555972bbe",
+            "Value": {
+                "id": "eebdfa00-7c71-4df5-9be7-af0cbcaf41db",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_bomb\/obj_bomb.yy",
+                "resourceType": "GMObject"
             }
         },
         {
