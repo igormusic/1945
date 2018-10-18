@@ -11,6 +11,6 @@ instance_create_layer(random(room_width), -16, "enemy_layer", obj_medipack);
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 4DEE4D67
-/// @DnDArgument : "steps" "100"
+/// @DnDArgument : "steps" "300"
 /// @DnDArgument : "alarm" "1"
-alarm_set(1, 100);
+alarm_set(1, 300);
