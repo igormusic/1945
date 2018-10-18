@@ -799,6 +799,25 @@
             }
         },
         {
+            "Key": "85f0d9b0-96a2-449b-9db7-d38005b0c349",
+            "Value": {
+                "id": "9ce67ae3-f233-478d-bc75-620806e3ea5a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/snd_posin\/snd_posin.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "8b9d7999-d9b5-4ef4-aae1-eb35ea655ebe",
             "Value": {
                 "id": "ceaf2c31-6a86-42a0-b9fe-84c51f8f9f9b",
